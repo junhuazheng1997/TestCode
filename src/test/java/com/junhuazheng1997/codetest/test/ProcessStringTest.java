@@ -28,6 +28,6 @@ public class ProcessStringTest {
         Assertions.assertEquals("", ProcessString.solution("aaabbbaaa"));
         Assertions.assertEquals("", ProcessString.solution("aaa"));
     }
-    
-    
+
+
 }
